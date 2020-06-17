@@ -6,7 +6,7 @@ The “Hidden” shader is the one that should be applied to any object you don�
 
 ## Instructions
 
-- Download the Kudan Unity Plugin from [the XLsoft Kudan Download Page](https://www.xlsoft.com/en/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Public-Samples-iOS).
+- Download the Kudan Unity Plugin from [the XLsoft Kudan Download Page](https://www.xlsoft.com/en/products/kudan/download.html?utm_source=external&utm_medium=github&utm_campaign=xlsoft_Unity-XRay-Sample).
 - Open the Unity Project and go to **Assets -> Import Package -> Custom Package**
 - Add `KudanARUnity.unitypackage`
 
