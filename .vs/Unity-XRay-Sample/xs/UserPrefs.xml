@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B194E8C6-0302-5610-C39E-F790B2D72680}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/BuildHelper.cs">
+    <Files>
+      <File FileName="Assets/Editor/BuildHelper.cs" Line="29" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity-XRay-Sample" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Editor" expanded="True">
+                <Node name="BuildHelper.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="da0df39b-6fd1-46ae-af72-d3d79cf9d16e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
